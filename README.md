@@ -2,6 +2,8 @@
 
 Floris Dekker, Julia Krug, Vittorio Saggiomo
 
+IMPORTANT: THIS IS STILL A WORK IN PROGRESS
+
 This research was done with the support of Open Science NL, Open Science Fund 23-1 - project OHEPR  
 
 For NMR, MRI or EPR, a Halbach array cylinder has a few advantageous characteristics to use in the magnet design. In a perfect Halbach cylinder, the B0 inside is highly homogeneous, and stronger than without this array. The stray field on the outside on the other hand is quite weak. However, this assumes an infinitely long cylinder where the magnetic ring consists of an infinite amount of segments magnetized in a different direction. In practice this is not possible, but with sufficient height and enough rotated cube magnets, an approximation can be achieved. Using a single ring of cube magnets, this means there will be, theoretically, a trade off between homogeneity (more magnets = higher field homogeneity) and strength (more segments, i.e. more magnets with smaller size = lower field strength). 
